@@ -1,0 +1,299 @@
+*{
+  margin: 0px;
+  padding: 0px;
+}
+.b11{width: 250px;
+height: 165px;
+/* background-color: hsl(180, 100%, 50%); */
+background-image: url(https://cdn.wallpapersafari.com/47/82/82OpaQ.jpg) ;
+background-size: cover;
+padding: 10px;
+border-radius: 4px;
+color: white;
+}
+.b11 table{
+  background-image: url(https://cdn.wallpapersafari.com/47/82/82OpaQ.jpg) ;
+background-size: cover;
+  width: 250px;
+}
+.mb h4{
+  font-family: sans-serif;
+  font-size:medium;
+}
+
+.mb{display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  height: 600px;
+  backdrop-filter: blur(5px);
+  background-color: rgb(0, 128, 0,0);
+  top: 1px;
+  position: fixed;
+  z-index: 1000;
+}
+.nav{
+  width: 100%;
+  display: flex;
+  height: 70px;
+  color: rgb(54, 54, 56);
+  background-color:rgb(131, 177, 226);
+  align-items: center;
+ justify-content: center;
+}
+.nav ul li{
+  text-decoration: none;
+}
+.nav ul{
+  width:auto;
+  display: flex;
+  gap: 20px;
+  list-style: none;
+}
+#nav{
+  border: none;
+  background-color: #1b46e4;
+ padding: 4px;
+ color: white;
+ text-decoration: none;
+ border-radius: 4px;
+ font-family: sans-serif;
+}
+.f1{border:none;
+  box-shadow: 2px 2px 2px 2px rgb(184, 183, 183);
+  border-radius: 4px;
+  width: 250px;
+  height: 250px;
+  padding: 30px;
+  background-color: rgb(237, 224, 158);
+}
+.aa{
+  background-image: url(https://www.pixelstalk.net/wp-content/uploads/2016/08/Library-HD-Background.jpg);
+  background-size: cover;
+}
+#a{
+  text-align: center;
+  padding-top:10px;
+  color: red;
+  font-family: roboto, sans-serif;
+}
+.mf1{
+  height: 500px;
+  display: flex;
+  justify-items: center;
+  justify-content: center;
+}
+.a{
+  font-size: 10px;
+  color: red;
+ padding-left: 130px;
+ padding-top: 10px;
+  font-family: roboto,sans-serif;
+}
+.b button{
+  width: 150px;
+  height: 40px;
+  background-color: rgb(4, 212, 4);
+  box-shadow: none;
+  color: white;
+  border: none;
+  border-radius: 3px;
+}
+#a1{
+  width: 170px;
+  height: 25px;
+}
+#a2{
+  width: 170px;
+  height: 25px;
+}
+#a3{
+  width: 360px;
+  height: 25px;
+}
+#a4{
+  width: 360px;
+  height: 25px;
+}
+.b{
+  width: 380px;
+  height: 350px;
+  border: none;
+  border-radius: 5px;
+  box-shadow: 5px 3px 5px 5px rgb(106, 209, 250);
+  padding: 30px;
+  background-color: rgb(169, 218, 238);
+}
+.b ul{
+  display: flex;
+  list-style: none;
+  width: 100%;
+}
+.b li{
+  padding: 5px;
+}
+#a5{
+  text-align: center;
+}
+.b1{
+  display: flex;
+  justify-content: center;
+  height: 600px;
+  padding-top: 60px;
+}
+.ab{
+  background-image: url(https://wallpapers.com/images/hd/library-background-o3w53kmy8akqqojh.jpg );
+  background-size: cover;
+  height: 800px;
+}
+.chair1{
+  display: flex;
+  padding: 50px;
+  gap: 30px;
+  border: none;
+  width: 650px;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
+.chair{
+  display: flex;
+  justify-content: center;
+  background-image: url(https://wallpapercave.com/wp/WOAttEL.jpg);
+ background-size: cover;
+}
+#chair{
+  background-color:green;
+  border-radius: 50%;
+  width: 50px;
+  height: 50px;
+  box-shadow: 2px 2px 2px 2px green;
+}
+.c2{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+table{
+  background-color:hsl(180, 100%, 50%);
+}
+table th{
+  padding-left: 20px;
+  padding-right: 20px;
+  height: 40px;
+  width: 50px;
+}
+table td{
+  text-align: center;
+  height: 40px;
+}
+button{
+  color: white;
+  background-color:green;
+  border: none;
+  width: 60px;
+  height: 25px;
+  border-radius: 5px;
+}
+#ab{
+  text-decoration: none; 
+  color:blue;
+  font-family: roboto, sans-serif;
+  border: none;
+  background-color: white;
+  position: fixed;
+  margin: 30px;
+  left: 920px;
+  top: 500px;
+  width: 175px;
+  height: 30px;
+  text-align: center;
+  padding-top:5px ;
+  border-radius: 5px;
+}
+#ab1{
+  position: relative;
+  top: 2px;
+  right: 3px;
+}
+.c{
+  background-image: url(https://static.vecteezy.com/system/resources/previews/022/922/994/non_2x/generative-ai-illustration-of-islamic-library-books-wallpaper-bright-attractive-love-for-books-photo.jpeg);
+  background-size: cover;
+  height: 600px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  border: none;
+}
+.cc{
+  width: 240px;
+  background-color: rgb(195, 195, 193);
+  padding: 60px;
+  height: 270px;
+  border-radius: 5px;
+  box-shadow: 5px 5px 5px 5px black;
+}
+.cc h3{
+  text-align: center;
+  color: rgb(75, 73, 73);
+  font-size: 20px;
+  font-family: sans-serif;
+}
+.cc input{
+  width: 250px;
+  height: 25px;
+  background-color: rgb(236, 234, 234);
+  border: none;
+  border-radius: 7px;
+}
+.cc ul{
+  list-style: none;
+}
+.cc button{
+  background-color: #1212f8;
+  width: 70px;
+  margin-left: 85px;
+}
+#c{
+  color: red;
+  text-align: center;
+}
+.d1 input{
+  width: 250px;
+  height: 28px;
+  background-color: rgb(236, 234, 234);
+  border: 1px solid rgb(171, 170, 170);
+  border-radius: 7px;
+}
+.d1{
+  width: 240px;
+  background-color: rgba(131, 210, 220, 0.781);
+  padding: 60px;
+  height: 300px;
+  border-radius: 5px;
+  text-align: center;
+  box-shadow: 5px 5px 5px 5px black;
+}
+#d1{
+  padding-top: 20px;
+  font-Size:11px;
+  font-Family:sans-serif;
+}
+.d{
+  background-image: url(https://th.bing.com/th/id/OIP.AdWEk2Aij6cvbVbsii_hiQHaEa?rs=1&pid=ImgDetMain);
+  background-size: cover;
+  height: 600px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+.d1 button{
+    background-color: #0d50cb;
+    width: 80px;
+    height: 30px;
+}
+#new{
+  color: rgb(60, 60, 60);
+  font-family: sans-serif;
+  font-size: 15px;
+}
